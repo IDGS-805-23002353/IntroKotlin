@@ -76,7 +76,7 @@ fun main() {
                 println("Saliendo del programa...")
             }
             else -> {
-                println("Opción no válida, intenta de nuevo.")
+                println( "Opción no válida, intenta de nuevo.")
             }
         }
 
